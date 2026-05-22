@@ -209,7 +209,7 @@ const Register: React.FC = () => {
                         {/* Right side - Graphic */}
                         <div className="hidden lg:flex items-center justify-center">
                             <img
-                                src={getAssetPath('login-gfx.png')}
+                                src={getAssetPath('login-animation.png')}
                                 alt="Registration illustration"
                                 className="max-w-md w-full h-auto"
                             />
@@ -350,7 +350,7 @@ const Register: React.FC = () => {
                     {/* Right side - Graphic */}
                     <div className="hidden lg:flex items-center justify-center">
                         <img
-                            src={getAssetPath('login-gfx.png')}
+                            src={getAssetPath('login-animation.png')}
                             alt="Registration illustration"
                             className="max-w-md w-full h-auto"
                         />
